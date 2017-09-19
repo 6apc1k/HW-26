@@ -1,0 +1,10 @@
+
+  <div ng-repeat="student in students" class="students">
+
+    <a ui-sref="new-rp({ lastName: student.lastName })">
+
+    {{student.name}} {{student.lastName}} <br> 
+
+    <img width="200px" src="{{student.img}}"> </a> 
+
+  </div>

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Liudmyla",
+        "lastName": "Bashta",
+        "img": "https://www.petfinder.com/wp-content/uploads/2012/11/91615172-find-a-lump-on-cats-skin-632x475.jpg",
+        "phone": "093-759-85-51",
+        "birthday": "28.11.1993"
+    }, {
+        "name": "Roman",
+        "lastName": "Chapkailo",
+        "img": "https://www.rd.com/wp-content/uploads/sites/2/2016/02/06-train-cat-shake-hands.jpg",
+        "phone": "093-444-44-53",
+        "birthday": "28.11.1993"
+
+    }, {
+        "name": "Khrystyna",
+        "lastName": "Dalivska",
+        "img": "http://www.readersdigest.ca/wp-content/uploads/2011/01/4-ways-cheer-up-depressed-cat.jpg",
+        "phone": "093-555-35-51",
+        "birthday": "28.11.1993"
+
+    }, {
+        "name": "Iuliia",
+        "lastName": "Kurylo",
+        "img": "http://news.nationalgeographic.com/content/dam/news/photos/000/755/75552.ngsversion.1422285553360.adapt.1900.1.jpg",
+        "phone": "093-56-865-51",
+        "birthday": "28.11.1993"
+
+    }
+  ]
